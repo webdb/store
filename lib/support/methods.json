@@ -1,0 +1,14 @@
+[
+  "cwrap",
+  "FS",
+  "allocate",
+  "addFunction",
+  "lengthBytesUTF8",
+  "stringToUTF8",
+  "intArrayFromString",
+  "stackAlloc",
+  "stackSave",
+  "stackRestore",
+  "getValue",
+  "setValue"
+]

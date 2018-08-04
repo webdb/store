@@ -1,0 +1,7 @@
+/dist
+/node_modules
+/lib/built
+/module.wasm
+/emsdk
+/tmp
+.idea

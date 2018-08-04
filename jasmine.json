@@ -1,0 +1,6 @@
+{
+  "spec_files": ["tmp/index.js"],
+  "stopSpecOnExpectationFailure": false,
+  "random": false,
+  "helpers": ["tests/jsdom-helper.js", "tests/worker-helper.js"]
+}
