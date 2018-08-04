@@ -1,0 +1,13 @@
+/lib
+/scripts
+/tests
+/src
+/.gitignore
+/*.js
+/package-lock.json
+/jasmine.json
+/.DS_Store
+/module.wasm
+/emsdk
+/tmp
+.idea
