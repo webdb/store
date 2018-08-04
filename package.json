@@ -20,7 +20,7 @@
     "jasmine": "jasmine --config=jasmine.json",
     "format-built": "prettier-eslint --single-quote --tab-width 2 --write \"lib/built/*.js\""
   },
-  "author": "",
+  "author": "Matt R <opensourcemaintainer@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^3.6.0",
