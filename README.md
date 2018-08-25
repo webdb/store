@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/@webdb/store.svg)](https://www.npmjs.com/@webdb/store)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 ### WebDB
 
 WASM compiled, Worker-ized, async, SQLite database for the web.
