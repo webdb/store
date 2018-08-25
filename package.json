@@ -1,10 +1,10 @@
 {
-  "name": "@webdb/core",
+  "name": "@webdb/store",
   "version": "0.1.0",
   "description": "WASM compiled, Worker-ized, async, SQLite database for the web.",
   "main": "dist/index.js",
   "repository": {
-    "url": "https://github.com/webdb/core"
+    "url": "https://github.com/webdb/store"
   },
   "scripts": {
     "deep-clean": "rm -rf lib/built dist",
