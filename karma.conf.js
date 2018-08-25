@@ -10,5 +10,5 @@ module.exports = config =>
       { pattern: "tmp/*.js.map", included: false }
     ],
     logLevel: config.LOG_INFO,
-    browsers: ["HeadlessChrome"]
+    browsers: ["Chrome"]
   });

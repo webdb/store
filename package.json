@@ -10,7 +10,7 @@
     "deep-clean": "rm -rf lib/built dist",
     "test": "npm run karma",
     "clean": "rm -rf dist tmp",
-    "build-lib": "./scripts/build.sh",
+    "build-lib": "bash scripts/build.sh",
     "karma": "npm run rollup-karma && karma start --single-run",
     "karma-watch": "npm run clean && concurrently \"npm run rollup-karma-watch\" \"wait-on tmp/index.js && karma start\"",
     "rollup": "rollup -c",
